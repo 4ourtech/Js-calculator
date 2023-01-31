@@ -1,2 +1,2 @@
 # Js-calculator
-made calculator with javascript 
+made calculator with javascripty
